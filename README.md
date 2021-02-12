@@ -13,5 +13,5 @@ Please after launching the application, wait several seconds the web page have f
 ## License
 This software is licensed under Apach license 2.0
 
-## If you like my work :)
+## If you like my work, I like coffee :)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G3F8XX7KXN6QQ)
